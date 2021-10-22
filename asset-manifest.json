@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/3d-animation/static/css/main.034e565e.chunk.css",
+    "main.js": "/3d-animation/static/js/main.f8bd2dff.chunk.js",
+    "main.js.map": "/3d-animation/static/js/main.f8bd2dff.chunk.js.map",
+    "runtime-main.js": "/3d-animation/static/js/runtime-main.dfd2ae6b.js",
+    "runtime-main.js.map": "/3d-animation/static/js/runtime-main.dfd2ae6b.js.map",
+    "static/js/2.d25cfebd.chunk.js": "/3d-animation/static/js/2.d25cfebd.chunk.js",
+    "static/js/2.d25cfebd.chunk.js.map": "/3d-animation/static/js/2.d25cfebd.chunk.js.map",
+    "index.html": "/3d-animation/index.html",
+    "static/css/main.034e565e.chunk.css.map": "/3d-animation/static/css/main.034e565e.chunk.css.map",
+    "static/js/2.d25cfebd.chunk.js.LICENSE.txt": "/3d-animation/static/js/2.d25cfebd.chunk.js.LICENSE.txt",
+    "static/media/IndexPage.scss": "/3d-animation/static/media/kd-bg.3905b74a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfd2ae6b.js",
+    "static/js/2.d25cfebd.chunk.js",
+    "static/css/main.034e565e.chunk.css",
+    "static/js/main.f8bd2dff.chunk.js"
+  ]
+}
