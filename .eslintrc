@@ -1,0 +1,9 @@
+{
+  "extends": "@steroidsjs/eslint-config",
+  "rules": {
+    "linebreak-style": "off",
+    "@typescript-eslint/ban-ts-comment": "off",
+    "import/no-extraneous-dependencies": ["error",  {"devDependencies": true}],
+    "no-console": "warn"
+  }
+}
