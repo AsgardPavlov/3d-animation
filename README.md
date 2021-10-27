@@ -1,3 +1,4 @@
+It is noticed that this animation freezes noticeably on computers with the mac OS.
 link to publish: https://asgardpavlov.github.io/3d-animation/
 
 # Getting Started with Create React App
